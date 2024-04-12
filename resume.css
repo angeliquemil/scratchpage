@@ -1,0 +1,22 @@
+h1,h2,h3{
+    color: beige;
+    padding-left: 5%;
+}
+p{
+    color: cadetblue;
+    padding-left: 5%;
+    text-shadow: 10px 10px 5px black;
+}
+main{
+    color: cadetblue;
+    padding-left: 5%;
+    text-shadow: 10px 10px 5px black;
+    font-weight: 700;
+}
+ol{
+    padding-left: 5%;
+    color: black;
+}
+ul{
+    padding-left: 5%;
+}

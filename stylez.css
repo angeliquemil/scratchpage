@@ -1,0 +1,83 @@
+h1 {
+    text-align: center;
+    color: antiquewhite;
+  }
+
+
+  #back-to-top {
+    position: fixed;
+    bottom: 20px;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  #back-to-top:hover {
+    background-color: #555;
+  }
+
+  body {
+    background-image: url('bread-making.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 10px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .date {
+    font-weight: bold;
+  }
+
+  img{
+    padding-right: 5%;
+  }
+
+  a{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: cornflowerblue;
+    padding-left: 5%;
+  }
+
+  div{
+    color: aliceblue;
+  }
