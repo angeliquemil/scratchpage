@@ -1,16 +1,16 @@
 h1,h2,h3{
-    color: beige;
+    color: black;
     padding-left: 5%;
 }
 p{
     color: cadetblue;
     padding-left: 5%;
-    text-shadow: 10px 10px 5px black;
+    text-shadow: 10px 10px 5px antiquewhite;
 }
 main{
     color: cadetblue;
     padding-left: 5%;
-    text-shadow: 10px 10px 5px black;
+    text-shadow: 10px 10px 5px antiquewhite;
     font-weight: 700;
 }
 ol{
